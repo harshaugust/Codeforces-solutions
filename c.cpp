@@ -12,6 +12,7 @@ const int N = 1e5 + 11;
  */
 void solve()
 {
+    cout << "hello world" << endl;
 }
 int32_t main()
 {
