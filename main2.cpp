@@ -16,6 +16,7 @@ void solve()
     cout << "YES" << endl;
     cout << "hahah" << endl;
     cout << "yes" << endl;
+    cout << "yeah sure" << endl;
 }
 int32_t main()
 {
