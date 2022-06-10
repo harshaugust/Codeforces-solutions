@@ -13,6 +13,7 @@ const int N = 1e5 + 11;
 void solve()
 {
     cout << "hello world" << endl;
+    cout << "hgh";
 }
 int32_t main()
 {
